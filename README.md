@@ -1,15 +1,10 @@
-![Jack Scott — Windows tooling, automation, and backend systems](./assets/profile-header.svg)
+Jack Scott — tooling, automation, networking and backend systems
 
 [![Open to remote roles](https://img.shields.io/badge/Open_to_remote_roles-50FA7B?style=for-the-badge&logo=github&logoColor=282A36)](#open-to)
-[![Medium](https://img.shields.io/badge/Medium-282A36?style=for-the-badge&logo=medium&logoColor=F8F8F2)](https://medium.com/@cloner.bl12)
+[![Telegram](https://img.shields.io/badge/Telegram-44475A?style=for-the-badge&logo=telegram&logoColor=8BE9FD)](https://t.me/JackScott)
 [![DEV Community](https://img.shields.io/badge/DEV_Community-282A36?style=for-the-badge&logo=devdotto&logoColor=BD93F9)](https://dev.to/jackscott7)
 
-I build practical software that removes recurring friction: misplaced windows,
-awkward scheduling on Windows, repetitive typing, and unreliable game-server
-routes.
-
-> **Predictable behavior. Clear interfaces. Useful documentation. Software people can actually install.**
-
+I’m a software engineer focused on Python, C#, tooling, networking, reverse engineering, and backend systems. I approach engineering with a systems mindset: understand the constraints, challenge weak abstractions, design for failure, eliminate unnecessary complexity, and carry the work from architecture through deployment.
 ## Featured projects
 
 ### [Centre](https://github.com/JackScott7/centre)
@@ -58,7 +53,7 @@ Expands text and runs keyboard-triggered actions anywhere on Windows.
 ## Technology stack
 
 Technologies I have used in shipped projects, deployment work, or earlier
-hands-on work. The badges show experience, not equal depth in every tool.
+hands-on work.
 
 ### Languages
 
@@ -77,22 +72,18 @@ hands-on work. The badges show experience, not equal depth in every tool.
 ![Flask](https://img.shields.io/badge/Flask-44475A?style=for-the-badge&logo=flask&logoColor=F8F8F2)
 ![Quart](https://img.shields.io/badge/Quart-44475A?style=for-the-badge&logo=python&logoColor=BD93F9)
 ![.NET](https://img.shields.io/badge/.NET-44475A?style=for-the-badge&logo=dotnet&logoColor=FF79C6)
-![WinForms](https://img.shields.io/badge/WinForms-44475A?style=for-the-badge&logo=dotnet&logoColor=8BE9FD)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-44475A?style=for-the-badge&logo=svelte&logoColor=FFB86C)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-44475A?style=for-the-badge&logo=tailwindcss&logoColor=8BE9FD)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-44475A?style=for-the-badge&logo=alpinedotjs&logoColor=8BE9FD)
-![Express.js](https://img.shields.io/badge/Express.js-44475A?style=for-the-badge&logo=express&logoColor=F8F8F2)
-
-### Python libraries and data tooling
-
 ![Pydantic](https://img.shields.io/badge/Pydantic-44475A?style=for-the-badge&logo=pydantic&logoColor=FF79C6)
 ![Tortoise ORM](https://img.shields.io/badge/Tortoise_ORM-44475A?style=for-the-badge&logo=python&logoColor=50FA7B)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-44475A?style=for-the-badge&logo=sqlalchemy&logoColor=FF5555)
-![aiohttp](https://img.shields.io/badge/aiohttp-44475A?style=for-the-badge&logo=aiohttp&logoColor=8BE9FD)
-![Click](https://img.shields.io/badge/Click-44475A?style=for-the-badge&logo=python&logoColor=F1FA8C)
-![PyJWT](https://img.shields.io/badge/PyJWT-44475A?style=for-the-badge&logo=jsonwebtokens&logoColor=FF79C6)
-![bcrypt](https://img.shields.io/badge/bcrypt-44475A?style=for-the-badge&logoColor=FFB86C)
-![PyWin32](https://img.shields.io/badge/PyWin32-44475A?style=for-the-badge&logo=python&logoColor=8BE9FD)
+
+### Development tools
+
+![PyCharm](https://img.shields.io/badge/PyCharm-44475A?style=for-the-badge&logo=pycharm&logoColor=50FA7B)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-44475A?style=for-the-badge&logo=visualstudio&logoColor=BD93F9)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-44475A?style=for-the-badge&logo=visualstudiocode&logoColor=8BE9FD)
+![Postman](https://img.shields.io/badge/Postman-44475A?style=for-the-badge&logo=postman&logoColor=FFB86C)
 
 ### Infrastructure and deployment
 
@@ -101,37 +92,28 @@ hands-on work. The badges show experience, not equal depth in every tool.
 ![NGINX](https://img.shields.io/badge/NGINX-44475A?style=for-the-badge&logo=nginx&logoColor=50FA7B)
 ![Caddy](https://img.shields.io/badge/Caddy-44475A?style=for-the-badge&logo=caddy&logoColor=50FA7B)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-44475A?style=for-the-badge&logo=cloudflare&logoColor=FFB86C)
-![Vercel](https://img.shields.io/badge/Vercel-44475A?style=for-the-badge&logo=vercel&logoColor=F8F8F2)
 ![Git](https://img.shields.io/badge/Git-44475A?style=for-the-badge&logo=git&logoColor=FFB86C)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-44475A?style=for-the-badge&logo=githubactions&logoColor=BD93F9)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-44475A?style=for-the-badge&logo=githubpages&logoColor=BD93F9)
 ![PyPI](https://img.shields.io/badge/PyPI-44475A?style=for-the-badge&logo=pypi&logoColor=FF79C6)
-![Docker](https://img.shields.io/badge/Docker-44475A?style=for-the-badge&logo=docker&logoColor=8BE9FD)
-![WSL2](https://img.shields.io/badge/WSL2-44475A?style=for-the-badge&logo=linux&logoColor=F1FA8C)
 
 ### Services and packaging
 
 ![SSH / OpenSSH](https://img.shields.io/badge/SSH_%2F_OpenSSH-44475A?style=for-the-badge)
 ![systemd](https://img.shields.io/badge/systemd-44475A?style=for-the-badge&logo=linux&logoColor=F1FA8C)
 ![Gunicorn + Uvicorn](https://img.shields.io/badge/Gunicorn_%2B_Uvicorn-44475A?style=for-the-badge&logo=gunicorn&logoColor=50FA7B)
-![Windows Services](https://img.shields.io/badge/Windows_Services-44475A?style=for-the-badge)
-![Task Scheduler](https://img.shields.io/badge/Task_Scheduler-44475A?style=for-the-badge)
-![NSSM](https://img.shields.io/badge/NSSM-44475A?style=for-the-badge&logoColor=BD93F9)
-![Inno Setup](https://img.shields.io/badge/Inno_Setup-44475A?style=for-the-badge)
 
 ### Databases
 
-![SQLite](https://img.shields.io/badge/SQLite-44475A?style=for-the-badge&logo=sqlite&logoColor=8BE9FD)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-44475A?style=for-the-badge&logo=postgresql&logoColor=BD93F9)
-![MySQL](https://img.shields.io/badge/MySQL-44475A?style=for-the-badge&logo=mysql&logoColor=FFB86C)
+![SQLite](https://img.shields.io/badge/SQLite-44475A?style=for-the-badge&logo=sqlite&logoColor=8BE9FD)
 
 ### Networking and system administration
 
 ![WireGuard](https://img.shields.io/badge/WireGuard-44475A?style=for-the-badge&logo=wireguard&logoColor=FF5555)
 ![UFW](https://img.shields.io/badge/UFW-44475A?style=for-the-badge&logo=ubuntu&logoColor=FFB86C)
 ![iptables](https://img.shields.io/badge/iptables-44475A?style=for-the-badge&logo=linux&logoColor=F1FA8C)
-![fail2ban](https://img.shields.io/badge/fail2ban-44475A?style=for-the-badge&logo=linux&logoColor=FF5555)
-![SOCKS5 tunnels](https://img.shields.io/badge/SOCKS5_Tunnels-44475A?style=for-the-badge&logoColor=8BE9FD)
+![Tailscale](https://img.shields.io/badge/Tailscale-44475A?style=for-the-badge&logo=tailscale&logoColor=F8F8F2)
 
 ## Open to
 
