@@ -74,6 +74,7 @@ Many of my projects start with something I want to make easier. That might mean 
   <img src="https://img.shields.io/badge/SQLite-89dceb?style=for-the-badge&logo=sqlite&logoColor=181825" alt="SQLite" />
   <img src="https://img.shields.io/badge/PostgreSQL-89b4fa?style=for-the-badge&logo=postgresql&logoColor=181825" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Supabase-a6e3a1?style=for-the-badge&logo=supabase&logoColor=181825" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Alembic-fab387?style=for-the-badge&logoColor=181825" alt="Alembic" />
 </p>
 
 ### Frameworks
@@ -82,6 +83,7 @@ Many of my projects start with something I want to make easier. That might mean 
   <img src="https://img.shields.io/badge/Flask-cdd6f4?style=for-the-badge&logo=flask&logoColor=181825" alt="Flask" />
   <img src="https://img.shields.io/badge/FastAPI-94e2d5?style=for-the-badge&logo=fastapi&logoColor=181825" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Pydantic-f5c2e7?style=for-the-badge&logo=pydantic&logoColor=181825" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/Quart-cba6f7?style=for-the-badge&logoColor=181825" alt="Quart" />
   <img src="https://img.shields.io/badge/WinForms-b4befe?style=for-the-badge&logo=dotnet&logoColor=181825" alt="WinForms" />
   <img src="https://img.shields.io/badge/Express-f9e2af?style=for-the-badge&logo=express&logoColor=181825" alt="Express" />
 </p>
@@ -91,8 +93,7 @@ Many of my projects start with something I want to make easier. That might mean 
 <p>
   <img src="https://img.shields.io/badge/Prisma-89dceb?style=for-the-badge&logo=prisma&logoColor=181825" alt="Prisma" />
   <img src="https://img.shields.io/badge/SQLAlchemy-f38ba8?style=for-the-badge&logo=sqlalchemy&logoColor=181825" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/Quart-cba6f7?style=for-the-badge&logoColor=181825" alt="Quart" />
-  <img src="https://img.shields.io/badge/Alembic-fab387?style=for-the-badge&logoColor=181825" alt="Alembic" />
+  <img src="https://img.shields.io/badge/Tortoise_ORM-a6e3a1?style=for-the-badge&logoColor=181825" alt="Tortoise ORM" />
 </p>
 
 ### Development
