@@ -1,128 +1,133 @@
-Jack Scott — tooling, automation, networking and backend systems
+<div align="center">
 
-[![Open to remote roles](https://img.shields.io/badge/Open_to_remote_roles-50FA7B?style=for-the-badge&logo=github&logoColor=282A36)](#open-to)
-[![Telegram](https://img.shields.io/badge/Telegram-44475A?style=for-the-badge&logo=telegram&logoColor=8BE9FD)](https://t.me/JackScott)
-[![DEV Community](https://img.shields.io/badge/DEV_Community-282A36?style=for-the-badge&logo=devdotto&logoColor=BD93F9)](https://dev.to/jackscott7)
+# Hey, I'm Jack 👋
 
-I’m a software engineer focused on Python, C#, tooling, networking, reverse engineering, and backend systems. I approach engineering with a systems mindset: understand the constraints, challenge weak abstractions, design for failure, eliminate unnecessary complexity, and carry the work from architecture through deployment.
-## Featured projects
+### Backend engineer · automation · CLI tools
 
-### [Centre](https://github.com/JackScott7/centre)
+Building useful software and exploring the systems behind it.
 
-[![PyPI](https://img.shields.io/pypi/v/centre?style=flat-square&label=PyPI&labelColor=282A36&color=BD93F9&logo=pypi&logoColor=FF79C6)](https://pypi.org/project/centre/)
-[![Python](https://img.shields.io/pypi/pyversions/centre?style=flat-square&label=Python&labelColor=282A36&color=8BE9FD&logo=python&logoColor=F1FA8C)](https://pypi.org/project/centre/)
-[![Stars](https://img.shields.io/github/stars/JackScott7/centre?style=flat-square&label=Stars&labelColor=282A36&color=F1FA8C&logo=github&logoColor=F8F8F2)](https://github.com/JackScott7/centre/stargazers)
-[![License](https://img.shields.io/github/license/JackScott7/centre?style=flat-square&label=License&labelColor=282A36&color=50FA7B)](https://github.com/JackScott7/centre/blob/main/LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/JackScott7/centre?style=flat-square&label=Last%20commit&labelColor=282A36&color=8BE9FD)](https://github.com/JackScott7/centre/commits/main)
+<br />
 
-Captures and restores Windows application positions and sizes with per-display
-presets and global hotkeys.
+<img src="https://img.shields.io/badge/backend-89b4fa?style=for-the-badge&labelColor=181825" alt="Backend" />
+<img src="https://img.shields.io/badge/automation-a6e3a1?style=for-the-badge&labelColor=181825" alt="Automation" />
+<img src="https://img.shields.io/badge/CLI_tools-cba6f7?style=for-the-badge&labelColor=181825" alt="CLI tools" />
 
-### [WinCron](https://github.com/JackScott7/wincron)
+<br />
 
-[![Release](https://img.shields.io/github/v/release/JackScott7/wincron?style=flat-square&label=Release&labelColor=282A36&color=BD93F9&logo=github&logoColor=F8F8F2)](https://github.com/JackScott7/wincron/releases/latest)
-[![Language](https://img.shields.io/github/languages/top/JackScott7/wincron?style=flat-square&label=Language&labelColor=282A36&color=FF79C6)](https://github.com/JackScott7/wincron)
-[![Stars](https://img.shields.io/github/stars/JackScott7/wincron?style=flat-square&label=Stars&labelColor=282A36&color=F1FA8C&logo=github&logoColor=F8F8F2)](https://github.com/JackScott7/wincron/stargazers)
-[![License](https://img.shields.io/github/license/JackScott7/wincron?style=flat-square&label=License&labelColor=282A36&color=50FA7B)](https://github.com/JackScott7/wincron/blob/main/LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/JackScott7/wincron?style=flat-square&label=Last%20commit&labelColor=282A36&color=8BE9FD)](https://github.com/JackScott7/wincron/commits/main)
+[![Website](https://img.shields.io/badge/syntaxly.bond-cba6f7?style=flat-square&logo=firefoxbrowser&logoColor=181825)](https://syntaxly.bond)
+[![Telegram](https://img.shields.io/badge/Telegram-89b4fa?style=flat-square&logo=telegram&logoColor=181825)](https://t.me/JackScott)
 
-Runs crontab-style jobs as a native Windows service with live configuration
-reload, overlap policies, and structured logs.
+</div>
 
-### [PingRadar](https://github.com/JackScott7/PingRadar)
+## About me
 
-[![Release](https://img.shields.io/github/v/release/JackScott7/PingRadar?style=flat-square&label=Release&labelColor=282A36&color=BD93F9&logo=github&logoColor=F8F8F2)](https://github.com/JackScott7/PingRadar/releases/latest)
-[![Language](https://img.shields.io/github/languages/top/JackScott7/PingRadar?style=flat-square&label=Language&labelColor=282A36&color=FF79C6)](https://github.com/JackScott7/PingRadar)
-[![Stars](https://img.shields.io/github/stars/JackScott7/PingRadar?style=flat-square&label=Stars&labelColor=282A36&color=F1FA8C&logo=github&logoColor=F8F8F2)](https://github.com/JackScott7/PingRadar/stargazers)
-[![License](https://img.shields.io/github/license/JackScott7/PingRadar?style=flat-square&label=License&labelColor=282A36&color=50FA7B)](https://github.com/JackScott7/PingRadar/blob/main/LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/JackScott7/PingRadar?style=flat-square&label=Last%20commit&labelColor=282A36&color=8BE9FD)](https://github.com/JackScott7/PingRadar/commits/main)
+I'm a backend engineer interested in **APIs, databases, networking, automation, and self-hosting**.
 
-Measures Steam relay latency, jitter, packet loss, and route quality before you
-launch a multiplayer game.
+I enjoy understanding how systems work: how data moves between services, how connections stay alive, and how the pieces fit together behind an application.
 
-### [IntelliText](https://github.com/JackScott7/IntelliText)
+Many of my projects start with something I want to make easier. That might mean improving terminal completions, making desktop windows behave consistently, or building a service around an idea I want to explore.
 
-[![PyPI](https://img.shields.io/pypi/v/intellitext?style=flat-square&label=PyPI&labelColor=282A36&color=BD93F9&logo=pypi&logoColor=FF79C6)](https://pypi.org/project/intellitext/)
-[![Python](https://img.shields.io/pypi/pyversions/intellitext?style=flat-square&label=Python&labelColor=282A36&color=8BE9FD&logo=python&logoColor=F1FA8C)](https://pypi.org/project/intellitext/)
-[![Stars](https://img.shields.io/github/stars/JackScott7/IntelliText?style=flat-square&label=Stars&labelColor=282A36&color=F1FA8C&logo=github&logoColor=F8F8F2)](https://github.com/JackScott7/IntelliText/stargazers)
-[![License](https://img.shields.io/github/license/JackScott7/IntelliText?style=flat-square&label=License&labelColor=282A36&color=50FA7B)](https://github.com/JackScott7/IntelliText/blob/main/LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/JackScott7/IntelliText?style=flat-square&label=Last%20commit&labelColor=282A36&color=8BE9FD)](https://github.com/JackScott7/IntelliText/commits/main)
+<br />
 
-Expands text and runs keyboard-triggered actions anywhere on Windows.
+## Projects
 
-## Technology stack
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🐚 PS7-Completion</h3>
+      <p>Tab completion for command-line tools in PowerShell 7.4+ on Windows.</p>
+      <p>Context-aware suggestions for commands, options, and values, with support for custom providers and tool-provided completion scripts.</p>
+      <p><strong>PowerShell · CLI · Developer tooling</strong></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🪟 centre</h3>
+      <p>A window position manager for Windows.</p>
+      <p>Capture window layouts, restore application positions and sizes, and focus windows through configurable keyboard shortcuts.</p>
+      <p><strong>Python · Windows · Desktop automation</strong></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🌙 nullroom</h3>
+      <p>Temporary public and private chat rooms with realtime messaging.</p>
+      <p>A FastAPI WebSocket backend handles rooms, membership, user presence, and message broadcasting. Rooms and messages are kept in memory.</p>
+      <p><strong>Python · FastAPI · WebSockets</strong></p>
+    </td>
+  </tr>
+</table>
 
-Technologies I have used in shipped projects, deployment work, or earlier
-hands-on work.
+<br />
+
+## Toolbox
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-44475A?style=for-the-badge&logo=python&logoColor=F1FA8C)
-![C#](https://img.shields.io/badge/C%23-44475A?style=for-the-badge&logo=dotnet&logoColor=BD93F9)
-![JavaScript](https://img.shields.io/badge/JavaScript-44475A?style=for-the-badge&logo=javascript&logoColor=F1FA8C)
-![TypeScript](https://img.shields.io/badge/TypeScript-44475A?style=for-the-badge&logo=typescript&logoColor=8BE9FD)
-![PowerShell](https://img.shields.io/badge/PowerShell-44475A?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-44475A?style=for-the-badge&logo=postgresql&logoColor=FF79C6)
-![Go](https://img.shields.io/badge/Go-44475A?style=for-the-badge&logo=go&logoColor=8BE9FD)
-![Lua](https://img.shields.io/badge/Lua-44475A?style=for-the-badge&logo=lua&logoColor=BD93F9)
+<p>
+  <img src="https://img.shields.io/badge/Python-cba6f7?style=for-the-badge&logo=python&logoColor=181825" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-b4befe?style=for-the-badge&logo=dotnet&logoColor=181825" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-f9e2af?style=for-the-badge&logo=javascript&logoColor=181825" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-89b4fa?style=for-the-badge&logo=typescript&logoColor=181825" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Rust-fab387?style=for-the-badge&logo=rust&logoColor=181825" alt="Rust" />
+</p>
 
-### Frameworks and UI
+### Backend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-44475A?style=for-the-badge&logo=fastapi&logoColor=50FA7B)
-![Flask](https://img.shields.io/badge/Flask-44475A?style=for-the-badge&logo=flask&logoColor=F8F8F2)
-![Quart](https://img.shields.io/badge/Quart-44475A?style=for-the-badge&logo=python&logoColor=BD93F9)
-![.NET](https://img.shields.io/badge/.NET-44475A?style=for-the-badge&logo=dotnet&logoColor=FF79C6)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-44475A?style=for-the-badge&logo=svelte&logoColor=FFB86C)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-44475A?style=for-the-badge&logo=alpinedotjs&logoColor=8BE9FD)
-![Pydantic](https://img.shields.io/badge/Pydantic-44475A?style=for-the-badge&logo=pydantic&logoColor=FF79C6)
-![Tortoise ORM](https://img.shields.io/badge/Tortoise_ORM-44475A?style=for-the-badge&logo=python&logoColor=50FA7B)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-44475A?style=for-the-badge&logo=sqlalchemy&logoColor=FF5555)
+<p>
+  <img src="https://img.shields.io/badge/SQLite-89dceb?style=for-the-badge&logo=sqlite&logoColor=181825" alt="SQLite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-89b4fa?style=for-the-badge&logo=postgresql&logoColor=181825" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-a6e3a1?style=for-the-badge&logo=supabase&logoColor=181825" alt="Supabase" />
+</p>
 
-### Development tools
+### Frameworks
 
-![PyCharm](https://img.shields.io/badge/PyCharm-44475A?style=for-the-badge&logo=pycharm&logoColor=50FA7B)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-44475A?style=for-the-badge&logo=visualstudio&logoColor=BD93F9)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-44475A?style=for-the-badge&logo=visualstudiocode&logoColor=8BE9FD)
-![Postman](https://img.shields.io/badge/Postman-44475A?style=for-the-badge&logo=postman&logoColor=FFB86C)
+<p>
+  <img src="https://img.shields.io/badge/Flask-cdd6f4?style=for-the-badge&logo=flask&logoColor=181825" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-94e2d5?style=for-the-badge&logo=fastapi&logoColor=181825" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Pydantic-f5c2e7?style=for-the-badge&logo=pydantic&logoColor=181825" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/WinForms-b4befe?style=for-the-badge&logo=dotnet&logoColor=181825" alt="WinForms" />
+  <img src="https://img.shields.io/badge/Express-f9e2af?style=for-the-badge&logo=express&logoColor=181825" alt="Express" />
+</p>
 
-### Infrastructure and deployment
+### ORMs
 
-![Linux VPS](https://img.shields.io/badge/Linux_VPS-44475A?style=for-the-badge&logo=linux&logoColor=F1FA8C)
-![Windows Server](https://img.shields.io/badge/Windows_Server-44475A?style=for-the-badge)
-![NGINX](https://img.shields.io/badge/NGINX-44475A?style=for-the-badge&logo=nginx&logoColor=50FA7B)
-![Caddy](https://img.shields.io/badge/Caddy-44475A?style=for-the-badge&logo=caddy&logoColor=50FA7B)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-44475A?style=for-the-badge&logo=cloudflare&logoColor=FFB86C)
-![Git](https://img.shields.io/badge/Git-44475A?style=for-the-badge&logo=git&logoColor=FFB86C)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-44475A?style=for-the-badge&logo=githubactions&logoColor=BD93F9)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-44475A?style=for-the-badge&logo=githubpages&logoColor=BD93F9)
-![PyPI](https://img.shields.io/badge/PyPI-44475A?style=for-the-badge&logo=pypi&logoColor=FF79C6)
+<p>
+  <img src="https://img.shields.io/badge/Prisma-89dceb?style=for-the-badge&logo=prisma&logoColor=181825" alt="Prisma" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-f38ba8?style=for-the-badge&logo=sqlalchemy&logoColor=181825" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/Quart-cba6f7?style=for-the-badge&logoColor=181825" alt="Quart" />
+  <img src="https://img.shields.io/badge/Alembic-fab387?style=for-the-badge&logoColor=181825" alt="Alembic" />
+</p>
 
-### Services and packaging
+### Development
 
-![SSH / OpenSSH](https://img.shields.io/badge/SSH_%2F_OpenSSH-44475A?style=for-the-badge)
-![systemd](https://img.shields.io/badge/systemd-44475A?style=for-the-badge&logo=linux&logoColor=F1FA8C)
-![Gunicorn + Uvicorn](https://img.shields.io/badge/Gunicorn_%2B_Uvicorn-44475A?style=for-the-badge&logo=gunicorn&logoColor=50FA7B)
+<p>
+  <img src="https://img.shields.io/badge/Git-fab387?style=for-the-badge&logo=git&logoColor=181825" alt="Git" />
+  <img src="https://img.shields.io/badge/PyCharm-a6e3a1?style=for-the-badge&logo=pycharm&logoColor=181825" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/RustRover-fab387?style=for-the-badge&logo=rustrover&logoColor=181825" alt="RustRover" />
+  <img src="https://img.shields.io/badge/VS_Code-89b4fa?style=for-the-badge&logoColor=181825" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Visual_Studio-cba6f7?style=for-the-badge&logoColor=181825" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/Postman-fab387?style=for-the-badge&logo=postman&logoColor=181825" alt="Postman" />
+  <img src="https://img.shields.io/badge/Tailscale-cdd6f4?style=for-the-badge&logo=tailscale&logoColor=181825" alt="Tailscale" />
+</p>
 
-### Databases
+### Networking
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-44475A?style=for-the-badge&logo=postgresql&logoColor=BD93F9)
-![SQLite](https://img.shields.io/badge/SQLite-44475A?style=for-the-badge&logo=sqlite&logoColor=8BE9FD)
+<p>
+  <img src="https://img.shields.io/badge/Cloudflare-f9e2af?style=for-the-badge&logo=cloudflare&logoColor=181825" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Nginx-a6e3a1?style=for-the-badge&logo=nginx&logoColor=181825" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Caddy-94e2d5?style=for-the-badge&logo=caddy&logoColor=181825" alt="Caddy" />
+</p>
 
-### Networking and system administration
+<br />
 
-![WireGuard](https://img.shields.io/badge/WireGuard-44475A?style=for-the-badge&logo=wireguard&logoColor=FF5555)
-![UFW](https://img.shields.io/badge/UFW-44475A?style=for-the-badge&logo=ubuntu&logoColor=FFB86C)
-![iptables](https://img.shields.io/badge/iptables-44475A?style=for-the-badge&logo=linux&logoColor=F1FA8C)
-![Tailscale](https://img.shields.io/badge/Tailscale-44475A?style=for-the-badge&logo=tailscale&logoColor=F8F8F2)
+## Currently exploring/working
 
-## Open to
+- **Network protocols** — framing, persistent connections, and reliable message delivery.
+- **Realtime systems** — WebSockets, room state, and communication between clients.
+- **Developer tools** — making command-line workflows faster and more intuitive.
+- **Automation** — building utilities that solve practical, everyday problems.
 
-Remote software engineering roles and open-source collaboration involving:
+<br />
 
-- Python backend development and APIs
-- Windows desktop and system tooling
-- Automation, CLIs, and developer infrastructure
+<div align="center">
 
----
+<sub>Usually building something I wanted to exist · ☕ Catppuccin Mocha</sub>
 
-<p align="center"><sub>Code that removes friction.</sub></p>
+</div>
